@@ -207,7 +207,7 @@ for(let i = false; i !== true; i) {
     i = true;
 };
 
-if(operacao === 1) alert(`O resultado da adição entre ${valorA} e ${valorB} equivale a ${valorA + valorB}`);
-if(operacao === 2) alert(`O resultado da Subtração entre ${valorA} e ${valorB} equivale a ${valorA - valorB}`);
-if(operacao === 3) alert(`O resultado da Divisão entre ${valorA} e ${valorB} equivale a ${valorA / valorB}`);
-if(operacao === 4) alert(`O resultado da Multiplicação entre ${valorA} e ${valorB} equivale a ${valorA * valorB}`);
+if(operacao === 1) alert(`(11) O resultado da adição entre ${valorA} e ${valorB} equivale a ${valorA + valorB}.`);
+if(operacao === 2) alert(`(11) O resultado da Subtração entre ${valorA} e ${valorB} equivale a ${valorA - valorB}.`);
+if(operacao === 3) alert(`(11) O resultado da Divisão entre ${valorA} e ${valorB} equivale a ${valorA / valorB}.`);
+if(operacao === 4) alert(`(11) O resultado da Multiplicação entre ${valorA} e ${valorB} equivale a ${valorA * valorB}.`);
