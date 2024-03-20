@@ -1,2 +1,2 @@
 # HoraDeCodar
-ExercíciosDeLógica
+Exercícios De Lógica
