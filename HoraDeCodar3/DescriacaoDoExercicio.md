@@ -26,4 +26,4 @@ N  é um valor informado pelo usuário
 
 - 10 - Escreva um programa para imprimir todas as tabuadas de 1 a N. N será informado pelo usuário.
 
-- 11 - Escreva um programa em que o usuário informe 10 valores e escreva quantos desses valores lidos estão entre os números 24 e 42 (incluindo os valores 24 e 42) e quantos deles estão fora deste intervalo.- 1 - Escreva um programa em que o usuário informe dois números utilizando o "prompt". Então escreva em tela o maior deles.
+- 11 - Escreva um programa em que o usuário informe 10 valores e escreva quantos desses valores lidos estão entre os números 24 e 42 (incluindo os valores 24 e 42) e quantos deles estão fora deste intervalo.
