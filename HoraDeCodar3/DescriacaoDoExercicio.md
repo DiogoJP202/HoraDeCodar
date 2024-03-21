@@ -1,4 +1,4 @@
-# Hora de codar 2! - De volta ao Código! 
+# Hora de codar 3! - De volta ao Código! 
 ## Exercícios de lógica de programação.
 
 ## Objetivos:
